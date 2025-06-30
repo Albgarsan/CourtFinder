@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bookings"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/see_reservations" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/profile_pic"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_new_bookings"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/make_reservation" />
+
+</menu>

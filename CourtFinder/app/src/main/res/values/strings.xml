@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourtFinder</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="make_reservation">New booking</string>
+    <string name="see_reservations">Join match</string>
+    <string name="court_1">Court 1</string>
+    <string name="court_2">Court 2</string>
+    <string name="court_3">Court 3</string>
+    <string name="select_date">Select date</string>
+    <string name="court">Court</string>
+    <string name="new_booking">New Booking</string>
+    <string name="sport">Sport</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+    <string name="need_a_partner">Need for a partner?</string>
+</resources>
