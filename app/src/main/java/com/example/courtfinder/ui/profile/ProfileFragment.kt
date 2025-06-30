@@ -34,13 +34,6 @@ class ProfileFragment : Fragment() {
         //Edit text for surname
         val editSurname = view.findViewById<EditText>(R.id.edit_surname)
 
-        //Spinner for favourite sport
-//        val spinnerSport: Spinner = view.findViewById(R.id.spinnerSport)
-//        val sports = listOf("Select a sport", "Tennis", "Padel")
-//        val sportAdapter = ArrayAdapter(requireContext(), R.layout.spinner_item, sports)
-//        sportAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
-//        spinnerSport.adapter = sportAdapter
-
         //Spinner for level
         val spinnerLevel: Spinner = view.findViewById(R.id.spinnerLevel)
         val levels = listOf("Select a level", "Beginner", "Intermediate", "Advanced")
