@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         val myBookings = mutableListOf<Booking>()
         val otherBookings = mutableListOf<Booking>()
-        lateinit var profile: Profile
+        var profile = Profile("", "", "")
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
