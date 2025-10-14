@@ -1,0 +1,5 @@
+The project CourtFinder is an Android based on the idea of making it easier to book different sports courts as well as being able to find people to play in case they don’t know anyone. The app will be aimed at casual players who want to play.
+The main objective is to offer players an easy way to compare and book different courts of the same sport so they can choose which best suits their interests. Also, the search of a partner in team sports will promote users’ interaction and matches organisation. 
+Users will be able to choose what sport they want to play, court to book, date and time in a simple form. They will also be able to create a request for a partner.
+Each person will have a profile where they could specify their favourite sport and which level they have in each sport.
+CourtFinder is a project that addresses the need for a practical and easy-to-use solution for casual sports players. Players often don't know which court to go to or don't have anyone to practice with, so an app that combines court booking with partner searches is very useful.
